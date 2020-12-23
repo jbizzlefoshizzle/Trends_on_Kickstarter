@@ -10,8 +10,11 @@ For this project, I was tasked with organizing and analyzing a database of four 
 ### Conclusions about Kickstarter campaigns
 
 * If somebody wants to fund a project on Kickstarter, they may want to launch it during May. Over 60% of projects launched during this time are successful.
+![Excel pivot chart line graph](images/Outcomes_LaunchDate.png)
 * Based on category breakdown, music projects have been the most likely to be successful. Over 77% of music projects were successfully funded on Kickstarter.
+![Excel pivot chart stacked bar graph](images/Category_Statistics.png)
 * Based on sub-category breakdown, plays are the most uncertain. Plays hold the honor of having the most successfully funded projects, and the honor of having the most failed funding endeavors.
+![Excel pivot chart stacked bar graph](images/Subcategory_Statistics.png)
 
 
 ### Limitations of this dataset
