@@ -5,7 +5,11 @@ Over two billion dollars have been raised using the massively successful crowdfu
 Since getting funded on Kickstarter requires meeting or exceeding the project's initial goal, many organizations spend months looking through past projects in an attempt to discover some trick to finding success. 
 
 For this project, I was tasked with organizing and analyzing a database of four thousand past projects in order to uncover any hidden trends.
-
+### Excel Tools Used:
+* Pivot Charts
+* Pivot Tables
+* Cell Formulas
+* Conditional Formatting
 
 ### Conclusions about Kickstarter campaigns
 
